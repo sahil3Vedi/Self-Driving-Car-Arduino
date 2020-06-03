@@ -1,0 +1,638 @@
+##### SMART CAR DATA-LOG #####
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 333 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 331 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 324 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 301 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 283 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 240 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 237 cm
+#Left Sensor Data  : 66 cm
+#Right Sensor Data : 276 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 207 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 207 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 178 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "RIGHT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2488 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "RIGHT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 188 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 108 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 79 cm
+#Left Sensor Data  : 6 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 56 cm
+#Left Sensor Data  : 7 cm
+#Right Sensor Data : 6 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 76 cm
+#Left Sensor Data  : 7 cm
+#Right Sensor Data : 8 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 196 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 30 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 165 cm
+#Left Sensor Data  : 5 cm
+#Right Sensor Data : 5 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 136 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 5 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 113 cm
+#Left Sensor Data  : 0 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 275 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 241 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "RIGHT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 208 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "RIGHT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 181 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 289 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 218 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 173 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 136 cm
+#Left Sensor Data  : 7 cm
+#Right Sensor Data : 106 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 110 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 220 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 114 cm
+#Left Sensor Data  : 5 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2425 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 117 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2482 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 197 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2508 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "RIGHT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 141 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Turn "RIGHT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 104 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 320 cm
+#Left Sensor Data  : 3753 cm
+#Right Sensor Data : 6 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 161 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 6 cm
+#User Command Received : Turn "LEFT".
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 125 cm
+#Left Sensor Data  : 3440 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 90 cm
+#Left Sensor Data  : 2 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 87 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 107 cm
+#Left Sensor Data  : 5 cm
+#Right Sensor Data : 5 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 71 cm
+#Left Sensor Data  : 5 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 34 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 102 cm
+#Left Sensor Data  : 6 cm
+#Right Sensor Data : 1 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 106 cm
+#Left Sensor Data  : 5 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2470 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2473 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2469 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2469 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2468 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2468 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2468 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2467 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2465 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2468 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2483 cm
+#Left Sensor Data  : 4 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2462 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2464 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2462 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2464 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2461 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2491 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2460 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2463 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2477 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2464 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2460 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2460 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2460 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2462 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2460 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2459 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2460 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2463 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2463 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2462 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2442 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2458 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 3 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2456 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2440 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2439 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2441 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2438 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2438 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2456 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2441 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2438 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2454 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2436 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
+>> TRAINING DATA LOG : 
+#Front Sensor Data : 2441 cm
+#Left Sensor Data  : 3 cm
+#Right Sensor Data : 4 cm
+#User Command Received : Go Straight (Default).
+
